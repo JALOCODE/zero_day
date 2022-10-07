@@ -1,1 +1,1 @@
-This is an optional task from my ALX software engineering school
+This README.md file describes whet this file does
